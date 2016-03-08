@@ -65,7 +65,7 @@ text-align: center;
 <br></br>
 <br></br>
 <br></br>
-vVVV
+v
 <br></br>
 <br></br>
 <br></br>
